@@ -49,3 +49,4 @@ npm install vue-router@4
 npm install --save-dev @vitejs/plugin-vue
 
 run: npm run dev
+new terminal bash: php artisan serve and ctrl + click http://127.0.0.1:8000 
